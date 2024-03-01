@@ -4,7 +4,7 @@ public class MyClass { //MyClass will be replace by your class
         return product;
     }
     public static void main(String args[]) {
-        int prod = multiply(3,5);
+        int prod = multiply(3,5); // we can mention the int a = 3 and int b = 5 and then int prod = multiply(a,b);
         System.out.println(prod);
     }
 }
